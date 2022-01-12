@@ -5,7 +5,6 @@ This is a fully responsive React chat application with social authentication inc
 ## Introduction
 
 This is a code repository for a React Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
-
 A React chat app using Firebase and Chat Engine [https://chatengine.io](https://chatengine.io)
 
 
